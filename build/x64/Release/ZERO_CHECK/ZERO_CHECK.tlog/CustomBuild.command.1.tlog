@@ -1,0 +1,10 @@
+^C:\USERS\MATVE\SOURCE\MP2-LAB3-POLISH-NOTATION\BUILD\CMAKEFILES\129AB5ED8702B645732133100D335AEE\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/matve/source/mp2-lab3-polish-notation -BC:/Users/matve/source/mp2-lab3-polish-notation/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/matve/source/mp2-lab3-polish-notation/build/polish_notation.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

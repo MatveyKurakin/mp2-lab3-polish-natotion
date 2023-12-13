@@ -1,0 +1,10 @@
+^C:\USERS\MATVE\SOURCE\MP2-LAB3-POLISH-NOTATION\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/matve/source/mp2-lab3-polish-notation -BC:/Users/matve/source/mp2-lab3-polish-notation/build --check-stamp-file C:/Users/matve/source/mp2-lab3-polish-notation/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

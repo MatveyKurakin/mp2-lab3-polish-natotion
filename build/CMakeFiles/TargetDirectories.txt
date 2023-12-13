@@ -1,0 +1,3 @@
+C:/Users/matve/source/mp2-lab3-polish-notation/build/CMakeFiles/polish_notation.dir
+C:/Users/matve/source/mp2-lab3-polish-notation/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/matve/source/mp2-lab3-polish-notation/build/CMakeFiles/ZERO_CHECK.dir

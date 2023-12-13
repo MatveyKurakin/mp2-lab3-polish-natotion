@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\matve\source\mp2-lab3-polish-notation\src\main.cpp(198): warning C4715: getBinOperation: значение возвращается не при всех путях выполнения
+C:\Users\matve\source\mp2-lab3-polish-notation\src\main.cpp(220): warning C4715: getFunc: значение возвращается не при всех путях выполнения
+  polish_notation.vcxproj -> C:\Users\matve\source\mp2-lab3-polish-notation\build\Debug\polish_notation.exe

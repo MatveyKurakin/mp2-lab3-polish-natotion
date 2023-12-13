@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\matve\source\mp2-lab3-polish-notation\build\CMakeFiles\129ab5ed8702b645732133100d335aee\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{05B1930D-34E1-3DEE-853A-451B2936A19A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
